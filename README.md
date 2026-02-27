@@ -27,4 +27,4 @@ All projects in this repo are designed to be run in Google Colab to avoid local 
 
 Upload the .py or .ipynb file from this repo.
 
-Run all cells to see the training process and visualizations.""
+Run all cells to see the training process and visualizations."" 
